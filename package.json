@@ -1,0 +1,16 @@
+{
+  "name": "to-doapp",
+  "version": "1.0.0",
+  "description": "to do app",
+  "main": "to-do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yug_ant_kach_roo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
